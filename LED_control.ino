@@ -10,9 +10,9 @@
 byte buff[2];
 
 // for yeelink api
-#define APIKEY         "dc7d1c98898fa2e4517xxxxxxxxxx" // 此处替换为你自己的API KEY
-#define DEVICEID       3933 // 此处替换为你的设备编号
-#define SENSORID1       5578 // 此处替换为你的传感器编号
+#define APIKEY         "21713ac6439d2036a393202a0e463cb1" // 此处替换为你自己的API KEY
+#define DEVICEID       353751 // 此处替换为你的设备编号
+#define SENSORID1      399077 // 此处替换为你的传感器编号
 
 
 // assign a MAC address for the ethernet controller.
